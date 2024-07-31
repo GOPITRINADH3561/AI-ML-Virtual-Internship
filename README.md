@@ -1,8 +1,6 @@
 # AI-ML-Virtual-Internship
 Virtual Internship which was conducted by AWS Academy
 
-### Introduction
-The AI-ML Virtual Internship, conducted by Eduskills in collaboration with AWS Academy, provides hands-on experience in artificial intelligence and machine learning through an online program. Interns engage with real-world projects, develop skills in data analysis and model development, and benefit from expert mentorship, all while leveraging AWS tools and technologies.
 
 <h1 align="center">Hi 👋, I'm Gopi Trinadh Maddikunta</h1>
 <h3 align="center">The AI-ML Virtual Internship, conducted by Eduskills in collaboration with AWS Academy, provides hands-on experience in artificial intelligence and machine learning through an online program. Interns engage with real-world projects, develop skills in data analysis and model development, and benefit from expert mentorship, all while leveraging AWS tools and technologies.</h3>
